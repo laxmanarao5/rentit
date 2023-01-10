@@ -1,1 +1,1 @@
-# rentit
+# Dockerised node webapp rentit
